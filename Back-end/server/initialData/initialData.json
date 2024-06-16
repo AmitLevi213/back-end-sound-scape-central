@@ -1,0 +1,296 @@
+{
+  "cards": [
+    {
+      "_id": "6601941691640a0b5122cdd5",
+      "songTitle": "In the End ",
+      "album": "Hybrid Theory",
+      "releaseYear": "9/11/2001",
+      "artist": "Linkin Park",
+      "duration": "3:36",
+      "description": "In the End is a song by American rock band Linkin Park. It is the eighth track on their debut album, Hybrid Theory (2000), and was released as the album's fourth and final single",
+      "lyrics": [
+        "One thing I don't know why",
+        "It doesn't even matter how hard you try",
+        "Keep that in mind, I designed this rhyme",
+        "To explain in due time",
+        "All I know",
+        "Time is a valuable thing",
+        "Watch it fly by as the pendulum swings",
+        "Watch it count down to the end of the day",
+        "The clock ticks life away",
+        "It's so unreal",
+        "Didn't look out below",
+        "Watch the time go right out the window",
+        "Tryin' to hold on, did-didn't even know",
+        "I wasted it all just to watch you go",
+        "I kept everything inside and even though I tried",
+        "It all fell apart",
+        "What it meant to me will eventually",
+        "Be a memory of a time when I tried so hard",
+        "I tried so hard and got so far",
+        "But in the end it doesn't even matter",
+        "I had to fall to lose it all",
+        "But in the end it doesn't even matter",
+        "One thing, I don't know why",
+        "It doesn't even matter how hard you try",
+        "Keep that in mind, I designed this rhyme",
+        "To remind myself how I tried so hard",
+        "In spite of the way you were mockin' me",
+        "Acting like I was part of your property",
+        "Remembering all the times you fought with me",
+        "I'm surprised it got so far",
+        "Things aren't the way they were before",
+        "You wouldn't even recognize me anymore",
+        "Not that you knew me back then",
+        "But it all comes back to me in the end",
+        "You kept everything inside and even though I tried",
+        "It all fell apart",
+        "What it meant to me will eventually",
+        "Be a memory of a time when I tried so hard",
+        "I tried so hard and got so far",
+        "But in the end it doesn't even matter",
+        "I had to fall to lose it all",
+        "But in the end it doesn't even matter",
+        "I've put my trust in you",
+        "Pushed as far as I can go",
+        "For all this",
+        "There's only one thing you should know",
+        "I've put my trust in you",
+        "Pushed as far as I can go",
+        "For all this",
+        "There's only one thing you should know",
+        "I tried so hard and got so far",
+        "But in the end it doesn't even matter",
+        "I had to fall to lose it all",
+        "But in the end it doesn't even matter"
+      ],
+      "genre": ["Rock", "Alternative Rock"],
+      "web": "https://www.linkinpark.com/",
+      "trackNumber": 1,
+      "image": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mp3-storage-58830.appspot.com/o/photos%2Fin%20the%20end%20photo.jpg?alt=media&token=1ac9d6c5-713e-4e67-b9c3-38ebe4dd21d5",
+        "alt": "in the end",
+        "_id": "660d2a74f9d3ea58f6d547bc"
+      },
+      "bizNumber": 6616328,
+      "likes": [
+        "65fc06e7cb7aa60febcced58",
+        "65a697870f61e1c5f9effac5",
+        "66046fcdf9d3ea58f6d4cdec",
+        "65e87e2ddc809e75acddfc21"
+      ],
+      "user_id": "65f5597d5aabf0bc85194dce",
+      "createdAt": "2024-03-25T15:11:18.853Z",
+      "__v": 626,
+      "audio": "https://firebasestorage.googleapis.com/v0/b/mp3-storage-58830.appspot.com/o/Linkin%20Park%20-%20In%20The%20End%20(Audio).mp3?alt=media&token=56c55b5d-0713-45cc-817b-788e3eb6a45a"
+    },
+
+    {
+      "_id": "6601941691640a0b5122cdd6",
+      "songTitle": "Numb",
+      "album": "Meteora",
+      "releaseYear": "2003/9/8",
+      "artist": "Linkin Park",
+      "duration": "3:07",
+      "description": "Numb is one of Linkin Park's most iconic songs, known for its emotional lyrics and powerful melody.",
+      "lyrics": [
+        "I'm tired of being what you want me to be",
+        "Feeling so faithless, lost under the surface",
+        "I don't know what you're expecting of me",
+        "Put under the pressure of walking in your shoes",
+        "Every step that I take is another mistake to you",
+        "(Caught in the undertow, just caught in the undertow)",
+        "I've become so numb, I can't feel you there",
+        "Become so tired, so much more aware",
+        "I'm becoming this, all I want to do",
+        "Is be more like me and be less like you",
+        "Can't you see that you're smothering me?",
+        "Holding too tightly, afraid to lose control",
+        "'Cause everything that you thought I would be",
+        "Has fallen apart right in front of you",
+        "Every step that I take is another mistake to you",
+        "(Caught in the undertow, just caught in the undertow)",
+        "And every second I waste is more than I can take",
+        "I've become so numb, I can't feel you there",
+        "Become so tired, so much more aware",
+        "I'm becoming this, all I want to do",
+        "Is be more like me and be less like you",
+        "And I know",
+        "I may end up failing too",
+        "But I know",
+        "You were just like me, with someone disappointed in you",
+        "I've become so numb, I can't feel you there",
+        "Become so tired, so much more aware",
+        "I'm becoming this, all I want to do",
+        "Is be more like me and be less like you",
+        "I've become so numb, I can't feel you there",
+        "I'm tired of being what you want me to be",
+        "I've become so numb, I can't feel you there",
+        "I'm tired of being what you want me to be"
+      ],
+      "genre": ["Alternative Rock", "Nu Metal"],
+      "web": "https://www.linkinpark.com/",
+      "trackNumber": 3,
+      "image": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mp3-storage-58830.appspot.com/o/photos%2Fnumb.jpg?alt=media&token=b10dcff9-5011-46ae-8ca2-89a5bdef5bcb",
+        "alt": "Numb",
+        "_id": "660d2a74f9d3ea58f6d547bd"
+      },
+      "bizNumber": 6616329,
+      "likes": [
+        "65fc06e7cb7aa60febcced58",
+        "65a697870f61e1c5f9effac5",
+        "66046fcdf9d3ea58f6d4cdec",
+        "65e87e2ddc809e75acddfc21"
+      ],
+      "user_id": "65f5597d5aabf0bc85194dce",
+      "createdAt": "2024-05-06T10:30:00.000Z",
+      "__v": 1,
+      "audio": "https://firebasestorage.googleapis.com/v0/b/mp3-storage-58830.appspot.com/o/Numb.mp3?alt=media&token=db494d91-bc35-4fe3-8b1c-ebc3db3534c8"
+    },
+    {
+      "_id": "6601941691640a0b5122cdd9",
+      "songTitle": "יש בינינו בית",
+      "album": "סחרחורת",
+      "releaseYear": "2012/02/13",
+      "artist": "דודו טסה",
+      "duration": "3:34",
+      "description": "השיר יש בינינו בית של דודו טסה, שנכתב בשיתוף עם אלי אליהו, מתאר מערכת יחסים בין שני אנשים שחיים יחד תחת קורת גג משותפת. השיר משקף את הפערים בין הציפיות והמציאות במערכת היחסים.",
+      "lyrics": [
+        "ויש את מה שרצית שאהיה",
+        "ויש מה שרציתי שתהיי",
+        "ויש בינינו בית",
+        "ולא נכנס מספיק אור",
+
+        "על הדלת כתבנו כאן גרים",
+        "חיכינו לאושר",
+        "קנינו כמה דברים",
+        "שהרווחנו ביושר",
+
+        "והבטחנו בלילות הקרים",
+        "שכחנו בבוקר",
+        "אין הנחות בחיים",
+        "שילמנו ביוקר",
+
+        "ויש את מה שרצית שאהיה",
+        "ויש מה שרציתי שתהי",
+        "ויש בינינו בית",
+        "ולא נכנס מספיק אור",
+
+        "רצינו לשכב כמו זרים",
+        "ולברוח בחושך",
+        "בחלון עמדו שיכורים",
+        "ששרו על חופש",
+
+        "ויש מה שרציתי שתהי",
+        "ויש בינינו בית",
+        "ולא נכנס מספיק אור"
+      ],
+      "genre": ["רוק אלטרנטיבי", "ים-תיכוני"],
+      "web": "https://he.wikipedia.org/wiki/%D7%A1%D7%97%D7%A8%D7%97%D7%95%D7%A8%D7%AA_(%D7%90%D7%9C%D7%91%D7%95%D7%9D)",
+      "trackNumber": 3,
+      "image": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mp3-storage-58830.appspot.com/o/photos%2F%D7%A1%D7%97%D7%A8%D7%97%D7%95%D7%A8%D7%AA_%D7%93%D7%95%D7%93_%D7%98%D7%A1%D7%94_%D7%A2%D7%98%D7%99%D7%A4%D7%94.jpeg?alt=media&token=4d8f90cb-c340-49a8-b361-7140447d997c",
+        "alt": "יש בינינו בית",
+        "_id": "660d2a74f9d3ea58f6d547be"
+      },
+      "bizNumber": 6616320,
+      "likes": [
+        "65fc06e7cb7aa60febcced58",
+        "65a697870f61e1c5f9effac5",
+        "66046fcdf9d3ea58f6d4cdec",
+        "65e87e2ddc809e75acddfc21"
+      ],
+      "user_id": "65f5597d5aabf0bc85194dcf",
+      "createdAt": "2024-05-06T10:30:00.000Z",
+      "__v": 1,
+      "audio": "https://firebasestorage.googleapis.com/v0/b/mp3-storage-58830.appspot.com/o/%D7%93%D7%95%D7%93%D7%95%20%D7%98%D7%A1%D7%94%20-%20%D7%99%D7%A9%20%D7%91%D7%99%D7%A0%D7%99%D7%A0%D7%95%20%D7%91%D7%99%D7%AA.mp3?alt=media&token=9248d008-c5f7-44c9-9375-d57f631874ec"
+    }
+  ],
+  "users": [
+    {
+      "_id": "65a823a10f61e1c5f9f000fd",
+      "name": {
+        "first": "admin",
+        "middle": "admin",
+        "last": "admin",
+        "_id": "65e75d0a5aabf0bc8515a1f5"
+      },
+      "phone": "050000000",
+      "email": "admin@gmail.com",
+      "image": {
+        "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+        "alt": "music card image",
+        "_id": "65e75d0a5aabf0bc8515a1f6"
+      },
+      "address": {
+        "state": "not defined",
+        "country": "israel",
+        "city": "israel",
+        "street": "israel",
+        "houseNumber": 1,
+        "zip": 1,
+        "_id": "65e75d0a5aabf0bc8515a1f7"
+      },
+      "isAdmin": true,
+      "isBusiness": true,
+      "createdAt": "2024-01-17T18:59:45.074Z"
+    },
+    {
+      "_id": "65a823a10f61e1c5f9f000fc",
+      "name": {
+        "first": "business",
+        "middle": "business",
+        "last": "business",
+        "_id": "65e75d0a5aabf0bc8515a1f4"
+      },
+      "phone": "050000000",
+      "email": "business@gmail.com",
+      "image": {
+        "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+        "alt": "music card image",
+        "_id": "65e75d0a5aabf0bc8515a1f6"
+      },
+      "address": {
+        "state": "not defined",
+        "country": "israel",
+        "city": "israel",
+        "street": "israel",
+        "houseNumber": 1,
+        "zip": 1,
+        "_id": "65e75d0a5aabf0bc8515a1f8"
+      },
+      "isAdmin": false,
+      "isBusiness": true,
+      "createdAt": "2024-01-17T18:00:00.074Z"
+    },
+    {
+      "_id": "65a823a10f61e1c5f9f000ff",
+      "name": {
+        "first": "regular",
+        "middle": "regular",
+        "last": "regular",
+        "_id": "65e75d0a5aabf0bc8515a1f1"
+      },
+      "phone": "050000000",
+      "email": "regular@gmail.com",
+      "image": {
+        "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+        "alt": "music card image",
+        "_id": "65e75d0a5aabf0bc8515a1f3"
+      },
+      "address": {
+        "state": "not defined",
+        "country": "israel",
+        "city": "israel",
+        "street": "israel",
+        "houseNumber": 1,
+        "zip": 1,
+        "_id": "65e75d0a5aabf0bc8515a1f0"
+      },
+      "isAdmin": false,
+      "isBusiness": false,
+      "createdAt": "2024-01-17T18:00:00.074Z"
+    }
+  ]
+}
